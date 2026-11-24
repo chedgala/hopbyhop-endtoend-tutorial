@@ -1,0 +1,16 @@
+# R / RStudio files
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Generated output plots
+Rplots.pdf
+HBH*.pdf
+ETE*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
